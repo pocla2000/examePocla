@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".SegPant">
+
+    <TextView
+        android:id="@+id/txtIngreseDato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtIngreseDato" />
+
+    <EditText
+        android:id="@+id/txtDato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/txtDato"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Cal"
+        android:text="@string/Button" />
+
+    <TextView
+        android:id="@+id/txtResultadoM"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtResultadoM" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:textAlignment="center"
+        tools:textSize="36sp" />
+
+</LinearLayout>

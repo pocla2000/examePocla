@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversorUnidades</string>
+    <string name="txtUnidadTemp">Unidades de Temperatura</string>
+    <string name="txtUnidadDis">Unidades de Distancia</string>
+    <string name="Button">Calcular</string>
+    <string name="txtIngreseDato">Unidad</string>
+    <string name="txtDato">Ingrese el numero</string>
+    <string name="txtResultadoM">Resultado</string>
+</resources>

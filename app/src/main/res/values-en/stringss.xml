@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Units Converter</string>
+    <string name="txtUnidadTemp">Temperature Units</string>
+    <string name="txtUnidadDis">Distance Units</string>
+    <string name="Button">Calculate</string>
+    <string name="txtIngreseDato">Unity</string>
+    <string name="txtDato">Enter the number</string>
+    <string name="txtResultadoM">Result</string>
+</resources>
